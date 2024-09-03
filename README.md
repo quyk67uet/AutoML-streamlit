@@ -1,6 +1,6 @@
 # Machine Learning Pipeline
 
-![Machine Learning Pipeline](https://drive.google.com/uc?export=view&id=1yUkeggb1CKMCZ0RM-S5A7FeHkLHYnmNC)
+![ML](https://drive.google.com/uc?export=view&id=1e8svPiBj9JELvpo9jSXVjqwtulN8o3EF)
 
 ## Overview
 
